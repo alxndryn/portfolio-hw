@@ -1,9 +1,29 @@
+
+
+#logo {
+    display: inline-block;
+}
+
 header {
+    margin: 0 auto;
+    background-color: #ffffff;
+}
+
+.nav-1 {
     width: 960px;
     margin: 0 auto;
+}
+
+.nav-2 {
+    
 }
 
 .main-content {
     width: 960px;
     margin: 0 auto;
+    background-color: #ffffff;
+}
+
+body {
+    background-image:url(../images/stardust-img.png)
 }
