@@ -118,3 +118,40 @@ footer {
     margin-bottom: 0;
     font-size: .75em;
 }
+
+label {
+    display: block;
+    margin: 10px auto 5px;
+}
+
+form {
+    margin-left: 22px;
+}
+
+input {
+    width: 915px;
+    
+}
+
+textarea {
+    height: 200px;
+    width: 915px;
+}
+
+input[type=submit] {
+        background-color:#4aaaa5;
+        border:1px solid #dddddd;
+        display:inline-block;
+        cursor:pointer;
+        color:#ffffff;
+        font-family:Arial;
+        font-size:16px;
+        padding:10px 31px;
+        text-decoration:none;
+        width: 15%;
+        margin: 10px auto 10px;
+    }
+/* .profile {
+    width: 259px;
+    height: 159px; */
+}
