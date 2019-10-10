@@ -151,7 +151,7 @@ input[type=submit] {
         width: 15%;
         margin: 10px auto 10px;
     }
-/* .profile {
-    width: 259px;
-    height: 159px; */
-}
+.profile {
+    padding-left: 22px;
+    padding-right: 15px;
+    padding-top: 22px;
